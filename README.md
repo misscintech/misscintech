@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=misscintech&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Quotes I like:
-“Go looking for the best in people, and you’ll be amazed at how much talent, ingenuity, empathy and goodwill you’ll find.” -The Go Giver
+“Go looking for the best in people, and you’ll be amazed at how much talent, ingenuity, empathy and goodwill you’ll find.” -The Go Giver<br>
 "Keep moving forward." -Walt Disney
 
 
